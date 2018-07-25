@@ -1,0 +1,5 @@
+Cipran|Antibiotics|1 file|22|Alken Laboraties
+Benadryl|Syrup|100 ml|79|Glaxo
+Zintac|Antacid|1 file|18|Pzifer
+Cherry capsule|Tonic|1 file|34|Cipla
+Diegene|Antacids|1 file|20|Ranbaxy
